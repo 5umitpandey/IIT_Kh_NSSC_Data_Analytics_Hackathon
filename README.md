@@ -14,6 +14,8 @@
 
 This repository presents our solution to the **NSSC 2025 Data Analytics Challenge**, focused on analyzing the **HLS4ML LHC Jet dataset**.
 
+## Dataset: [Drive Link](https://drive.google.com/drive/folders/1VSOgxvqmQhauZl0dbIN7u8usZOkwwl_v?usp=sharing)
+
 Our project is built around two major objectives:
 
 1. **Jet Classification**  
