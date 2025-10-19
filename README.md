@@ -104,7 +104,7 @@ NSSC_DataAnalytics_Team_ASHSUM143/
 - Implemented using **PyTorch**.
 - Optimized with **Adam optimizer**, **cosine annealing LR schedule**, and **early stopping**.
 
-#### 🌲 Random Forest (Tabular)
+### 🔹 Random Forest (Tabular)
 - Used for interpretable classification on structured features.
 - Tuned with **GridSearchCV** for best performance.
 
@@ -129,7 +129,7 @@ NSSC_DataAnalytics_Team_ASHSUM143/
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Python 3.10+**
 - **PyTorch**
