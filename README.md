@@ -146,8 +146,8 @@ To reproduce our results:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/NSSC2025-DataAnalytics.git
-cd NSSC2025-DataAnalytics
+git clone https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon.git
+cd IIT_Kh_NSSC_Data_Analytics_Hackathon
 
 # Install dependencies
 pip install -r requirements.txt
