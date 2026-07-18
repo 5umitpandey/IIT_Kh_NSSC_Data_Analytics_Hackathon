@@ -2,6 +2,8 @@
 
 ![Jet Particle Wallpaper](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/1_Wallpaper.jpg)
 
+## 🚀 Live Deployment: [OmniJet Particle Classifier](https://huggingface.co/spaces/Ashirwad12/omnijet-particle-classifier)
+
 ## 🧩 Team Information
 - **Team ID:** T-0823769
 - **Team Name:** ASHSUM
